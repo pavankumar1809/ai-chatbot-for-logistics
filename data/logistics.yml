@@ -1,0 +1,41 @@
+categories:
+- Logistics
+conversations:
+- - What is logistics?
+  - the detailed organization and implementation of a complex operation.
+  - the activity of organizing the movement, equipment, and accommodation of troops.
+  - the commercial activity of transporting goods to customers.
+
+- - What is not logistics?
+  - Not logisitics means, no movility involve in any business environment. In other word, product movement is restricted.
+
+- - Logistic Regression for ordinal scaled data
+  - The outcome is binary then logistic regression is an useful technique.
+
+- - Can anyone suggest me topics for supply chain management dissertation?
+  - Supply chain finance? Have a look at the website of the SCF community
+  - Because you like the SCOR model i suggest to work on audit of logistics flows.
+
+- - What is a microprocessor?
+  - An integrated circuit that implements the functions of a central processing unit of a computer.
+  - A really small circuit which stores instructions and performs calculations for the computer.
+  - The heart of the computer, to put it simply.
+  - The brain of a computer, to put it simply.
+  - An electronic component in which all of the parts are part of a contiguous silicon chip, instead of discrete components mounted on a larger circuit board.
+
+- - How can we treat non parametric outcomes in regression?
+  - you definitely should not categorize your continuous predictor variable (Age) as this loses power to detect effects.
+  - The best advice I can give you is to find papers that use BIP and follow their analysis ; you can them cite them as your authority.
+
+- - What is the best free Lab Managment software?
+  - Quartzy- This is an online lab management platform and scientific research supply marketplace.
+  - Senaite-a robust web-based LIMS/LIS built upon the Plone CMS infrastructure.
+  
+- - Data science and Statistics in Shipping industry?
+  - It would be helpful if you can describe the requirements/concerns/problems in the shipping industry.
+
+- - How can I run a logistic regression for a sub group of my sample (in STATA)?
+  - By moving to Python and R
+
+- - RoRo market in Norway - how is it built?
+  - May it would be good idea to head for the library at WMU situated at Malmoe...
